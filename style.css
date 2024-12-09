@@ -71,6 +71,15 @@ h2 {
 .text1{
     text-indent: 30px;
 }
+.text2{
+    color: blue;
+    padding: 20px;    
+}
+
+.list-link li{
+    margin: 20px;
+    text-decoration: underline;    
+}
 
 #content{
     display: flex;
